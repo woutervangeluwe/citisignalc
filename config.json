@@ -9,18 +9,18 @@
         },
         "cs": {
           "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
-          "Magento-Store-Code": "main_website_store",
-          "Magento-Store-View-Code": "default",
-          "Magento-Website-Code": "base"
+          "Magento-Store-Code": "citisignal_us",
+          "Magento-Store-View-Code": "citisignal_us",
+          "Magento-Website-Code": "citisignal_us"
         }
       },
       "analytics": {
         "base-currency-code": "USD",
         "environment": "Testing",
         "environment-id": "UfjgisUBMKxwqSKCNM8XUq",
-        "store-code": "main_website_store",
-        "store-id": "main_website_store",
-        "store-name": "Default Store View",
+        "store-code": "citisignal_us",
+        "store-id": "citisignal_us",
+        "store-name": "citisignal_us",
         "store-url": "https://coresaas-subgraph-external:8000/UfjgisUBMKxwqSKCNM8XUq/",
         "store-view-code": "default",
         "store-view-id": "default",

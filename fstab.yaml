@@ -1,7 +1,8 @@
 mountpoints:
   /:
-    url: https://content.da.live/demo-system-stores/accs-citisignal/
-    type: markup
+    url: "https://author-p166303-e1771190.adobeaemcloud.com/bin/franklin.delivery/woutervangeluwe/citisignalc/main"
+    type: "markup"
+    suffix: ".html"
 
 folders:
   /products/: /products/default

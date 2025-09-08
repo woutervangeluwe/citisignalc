@@ -20,18 +20,18 @@
         "environment-id": "UfjgisUBMKxwqSKCNM8XUq",
         "store-code": "citisignal_us",
         "store-id": "citisignal_us",
-        "store-name": "citisignal_us",
+        "store-name": "CitiSignal US",
         "store-url": "https://coresaas-subgraph-external:8000/UfjgisUBMKxwqSKCNM8XUq/",
-        "store-view-code": "default",
-        "store-view-id": "default",
-        "store-view-name": "Default Store View",
-        "website-code": "base",
-        "website-id": "base",
-        "website-name": "Main Website"
+        "store-view-code": "citisignal_us",
+        "store-view-id": "citisignal_us",
+        "store-view-name": "CitiSignal US",
+        "website-code": "citisignal_us",
+        "website-id": "citisignal_us",
+        "website-name": "CitiSignal US"
       },
       "plugins": {
         "picker": {
-          "rootCategory": "2"
+          "rootCategory": "3"
         }
       }
     }
